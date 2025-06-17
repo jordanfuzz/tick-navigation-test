@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         {/* {!isLandingPage && <NavBar />} */}
-        <div className="p-20">{children}</div>
+        <div>{children}</div>
       </body>
     </html>
   )

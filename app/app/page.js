@@ -6,7 +6,7 @@ import planet from '@/media/planet.gif'
 
 export default function Home() {
   return (
-    <div className="text-center p-40">
+    <div className="text-center p-10">
       <main>
         {/* <TickBox /> */}
         <Grid />
